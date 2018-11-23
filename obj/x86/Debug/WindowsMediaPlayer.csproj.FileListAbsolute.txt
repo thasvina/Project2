@@ -1,0 +1,27 @@
+d:\my documents\visual studio 2010\Projects\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\WindowsMediaPlayer.exe
+d:\my documents\visual studio 2010\Projects\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\WindowsMediaPlayer.pdb
+d:\my documents\visual studio 2010\Projects\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\Interop.WMPLib.dll
+d:\my documents\visual studio 2010\Projects\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+d:\my documents\visual studio 2010\Projects\WindowsMediaPlayer\WindowsMediaPlayer\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\my documents\visual studio 2010\Projects\WindowsMediaPlayer\WindowsMediaPlayer\obj\x86\Debug\Interop.WMPLib.dll
+d:\my documents\visual studio 2010\Projects\WindowsMediaPlayer\WindowsMediaPlayer\obj\x86\Debug\AxInterop.WMPLib.dll
+d:\my documents\visual studio 2010\Projects\WindowsMediaPlayer\WindowsMediaPlayer\obj\x86\Debug\WindowsMediaPlayer.csproj.ResolveComReference.cache
+d:\my documents\visual studio 2010\Projects\WindowsMediaPlayer\WindowsMediaPlayer\obj\x86\Debug\WindowsMediaPlayer.Form1.resources
+d:\my documents\visual studio 2010\Projects\WindowsMediaPlayer\WindowsMediaPlayer\obj\x86\Debug\WindowsMediaPlayer.Properties.Resources.resources
+d:\my documents\visual studio 2010\Projects\WindowsMediaPlayer\WindowsMediaPlayer\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\my documents\visual studio 2010\Projects\WindowsMediaPlayer\WindowsMediaPlayer\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\my documents\visual studio 2010\Projects\WindowsMediaPlayer\WindowsMediaPlayer\obj\x86\Debug\WindowsMediaPlayer.exe
+d:\my documents\visual studio 2010\Projects\WindowsMediaPlayer\WindowsMediaPlayer\obj\x86\Debug\WindowsMediaPlayer.pdb
+C:\Users\Thasvina\Documents\a\windowsmediaplayer (1)\WindowsMediaPlayer\WindowsMediaPlayer\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Thasvina\Documents\a\windowsmediaplayer (1)\WindowsMediaPlayer\WindowsMediaPlayer\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Thasvina\Documents\a\windowsmediaplayer (1)\WindowsMediaPlayer\WindowsMediaPlayer\obj\x86\Debug\WindowsMediaPlayer.csproj.ResolveComReference.cache
+C:\Users\Thasvina\Documents\a\windowsmediaplayer (1)\WindowsMediaPlayer\WindowsMediaPlayer\obj\x86\Debug\WindowsMediaPlayer.pdb
+C:\Users\Thasvina\Documents\a\windowsmediaplayer (1)\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\WindowsMediaPlayer.exe
+C:\Users\Thasvina\Documents\a\windowsmediaplayer (1)\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\WindowsMediaPlayer.pdb
+C:\Users\Thasvina\Documents\a\windowsmediaplayer (1)\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\Thasvina\Documents\a\windowsmediaplayer (1)\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Thasvina\Documents\a\windowsmediaplayer (1)\WindowsMediaPlayer\WindowsMediaPlayer\obj\x86\Debug\WindowsMediaPlayer.csprojResolveAssemblyReference.cache
+C:\Users\Thasvina\Documents\a\windowsmediaplayer (1)\WindowsMediaPlayer\WindowsMediaPlayer\obj\x86\Debug\WindowsMediaPlayer.Form1.resources
+C:\Users\Thasvina\Documents\a\windowsmediaplayer (1)\WindowsMediaPlayer\WindowsMediaPlayer\obj\x86\Debug\WindowsMediaPlayer.Properties.Resources.resources
+C:\Users\Thasvina\Documents\a\windowsmediaplayer (1)\WindowsMediaPlayer\WindowsMediaPlayer\obj\x86\Debug\WindowsMediaPlayer.csproj.GenerateResource.Cache
+C:\Users\Thasvina\Documents\a\windowsmediaplayer (1)\WindowsMediaPlayer\WindowsMediaPlayer\obj\x86\Debug\WindowsMediaPlayer.exe
